@@ -1,6 +1,4 @@
 # launch-console
+/## 
 
-
-
-
-I can't wait to teach everyone about fun branching strategies.
+Today is my first day of Code2College very excited.
